@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\bin\Debug\netcoreapp1.1\ContosoU.deps.json
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\bin\Debug\netcoreapp1.1\ContosoU.runtimeconfig.json
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\bin\Debug\netcoreapp1.1\ContosoU.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\bin\Debug\netcoreapp1.1\ContosoU.dll
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\bin\Debug\netcoreapp1.1\ContosoU.pdb
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\obj\Debug\netcoreapp1.1\ContosoU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\obj\Debug\netcoreapp1.1\ContosoU.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\obj\Debug\netcoreapp1.1\ContosoU.dll
+C:\Users\Administrator\Desktop\ContosoU\ContosoU\obj\Debug\netcoreapp1.1\ContosoU.pdb
